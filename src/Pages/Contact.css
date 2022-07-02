@@ -1,0 +1,38 @@
+#contact{
+    height: 675px;
+    background-color: rgba(15, 15, 38, 0.347);
+
+}
+input{
+    width: 70%;
+    height: 35px;
+    margin-bottom: 10px;
+}
+h1{
+    color: white;
+    margin-top: 0;
+    font-size: x-large;
+}
+textarea{
+    width: 70%;
+    height: 100px;
+}
+i{
+    margin-top: 10px;
+    margin-right: 5px;
+    color: white;
+}
+#btn{
+    background-color: rgba(255, 255, 255, 0.447);
+    border-radius: 7px;
+    width: 100px;
+    height: 40px;
+    font-size: large;
+    font-weight: 600;
+    color: white;
+    border: none;
+    margin-top: 50px;
+}
+.inputarea{
+    margin-top: 50px;
+}

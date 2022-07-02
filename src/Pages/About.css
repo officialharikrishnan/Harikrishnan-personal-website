@@ -1,0 +1,13 @@
+
+#about{
+    color: white;
+    background-color: rgba(15, 15, 38, 0.347);
+    padding: 10%;
+    text-align: center;
+    height: 440px;
+
+}
+#about h1{
+    text-decoration: underline;
+    font-size: x-large;
+}
